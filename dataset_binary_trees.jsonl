@@ -1,0 +1,24 @@
+```jsonl
+[
+  {
+    "instruction": "Bro, what’s the basic idea behind binary trees?",
+    "response": "Alright, so think of it like a family tree, but for data. Each node has a ‘parent’ and ‘children’.  It’s organized to make searching and finding stuff faster. Basically, we sort things out based on a ‘parent’ to quickly pinpoint what you’re looking for."
+  },
+  {
+    "instruction": "Okay, so how does a node get its 'height'?",
+    "response": "That's the tricky part, man. Height represents how ‘deep’ a branch is.  It’s basically a measure of the number of edges that branch into.  A taller branch means more stuff to look at.  It’s a way to understand how much work you need to go down a path."
+  },
+  {
+    "instruction": "What's the difference between a binary tree and a regular tree, like a list?",
+    "response": "Simple, really.  A regular tree is just a list, but a binary tree has a specific structure - nodes are organized into a hierarchy.  It’s like a nested Lego set, but with data.  It lets us find things more efficiently, you know?"
+  },
+  {
+    "instruction": "Does a binary tree have a 'root' node?  Explain it.",
+    "response": "Yeah, absolutely! The root node is the top of the tree.  It’s where everything starts, the main point of the hierarchy.  It’s like the head of the family tree, setting the whole thing up.  Without a root, you can’t really *navigate* the tree."
+  },
+  {
+    "instruction": "What's the use case for a binary tree?  Give me an example.",
+    "response": "Hmm, good question.  Imagine you’re building a file system - each folder is a node, and you can quickly find a file with a specific name.  It's all about organized access!  Or, think about sorting a list - a binary tree helps keep things sorted in the right place."
+  }
+]
+```

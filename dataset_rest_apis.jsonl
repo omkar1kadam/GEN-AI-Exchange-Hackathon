@@ -1,0 +1,24 @@
+```jsonl
+[
+  {
+    "instruction": "Bro, what's the *biggest* difference between REST and GraphQL, ya know?",
+    "response": "Dude, it's like this: REST is like a restaurant - you pick a dish and it's all there. GraphQL is more like a menu - you choose exactly what you want, and it's all connected."
+  },
+  {
+    "instruction": "Okay, so if I’m building a website, which is better? REST or GraphQL?",
+    "response": "Honestly? It depends. REST is simple to start with, but GraphQL can be *way* more efficient for complex data, ya know?  Think of it as a tool for different jobs."
+  },
+  {
+    "instruction": "What's a 'resource' in the context of REST, and how does that relate to GraphQL?",
+    "response": "A resource is like a piece of data – a user, a product, a blog post. REST's got those, and GraphQL's got 'things' that represent those resources, but with a little more flexibility."
+  },
+  {
+    "instruction": "Can you explain the 'endpoint' in REST and how GraphQL works with it?",
+    "response": "Think of an endpoint as a doorway. REST is like a direct path – you go through that doorway. GraphQL uses endpoints to guide the request - it’s like directing your path, not just going through a single doorway."
+  },
+  {
+    "instruction": "Basically, is GraphQL always faster than REST?  Don't get your hopes up, ya know?",
+    "response": "Nah, not *always*.  REST is solid, but GraphQL can be faster in specific situations – especially when you're dealing with a lot of data. It's a trade-off."
+  }
+]
+```

@@ -1,0 +1,24 @@
+```jsonl
+[
+  {
+    "instruction": "Bro, when we’re stuck on a problem, what’s your go-to approach? Like, don’t just panic and try stuff, ya know?",
+    "response": "Right, man. It's all about breaking it down. First, we gotta identify *what* the problem IS. Then, we figure out *why* it’s a problem. It’s a systematic kinda thing, you get it?"
+  },
+  {
+    "instruction": "Okay, so 'why' is important. What's a good starting point, like, a quick way to get to the root of it? No need for a massive rewrite, just a little digging.",
+    "response": "Simple. Start with the basics. Throw out what you think is wrong. Just get a sense of the surface level. Don't overthink it, bro.  A quick sketch, a bullet-point list... that's it."
+  },
+  {
+    "instruction": "Got it.  So, after we've got that initial understanding, how do we actually *solve* it?  Like, a plan of attack, ya know?",
+    "response": "Alright, that’s the core. We break it down into smaller, manageable steps.  Like a flowchart.  Each step has a purpose, and if one fails, we pivot to the next.  It's a bit like building with LEGOs, but for problems."
+  },
+  {
+    "instruction": "Yeah, a flowchart is smart. What about if things get…complicated?  Do you ever just jump in and try something, or do you need a bit of a backup plan?",
+    "response": "That’s a good question.  Sometimes it's best to start with a quick test.  A small, low-risk experiment. But, if that doesn't work, we loop back, re-evaluate, and try a different approach.  It’s about adapting, man.  Don’t be afraid to change things."
+  },
+  {
+    "instruction": "So, it's a cycle, huh?  Any tips for staying calm when you're wrestling with a tough problem?  Like, avoid getting bogged down in details?",
+    "response": "Definitely.  Prioritize. Focus on the *essential*.  Don’t get lost in the minutiae.  Sometimes, step back and look at the big picture.  Just say 'what's the one thing I *need* to solve here?'"
+  }
+]
+```

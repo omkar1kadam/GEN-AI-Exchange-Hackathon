@@ -1,0 +1,24 @@
+```jsonl
+[
+  {
+    "instruction": "Hey bro, what's the *really* simple way to handle routes in Express.js?",
+    "response": "Yo, it's pretty straightforward. You gotta define a route for each endpoint you want to serve, like, 'get /users' or 'create /users'. Express automatically picks a default handler if you don't specify one.  Basically, make sure your `app.get('/users', ...)` line is there, right?"
+  },
+  {
+    "instruction": "Okay, but how does Express handle different routes?  It seems kinda complicated.",
+    "response": "Don't sweat it, it’s not magic.  Express uses a concept called 'routing middleware' – these are functions you write that get called when a specific route is requested.  Think of it like a little label on the route that tells Express which part to handle.  We'll cover that in a bit, but start with getting those routes set up."
+  },
+  {
+    "instruction": "What’s the difference between `app.get()`, `app.post()`, and `app.put()`? I'm kinda lost.",
+    "response": "Alright, let's break it down. `app.get()` is for GET requests – just getting data.  `app.post()` is for POST requests – sending data.  `app.put()` is for PUT requests – updating data.  It's all about the type of request you're doing.  See?  No need to overthink it, just know what each one does."
+  },
+  {
+    "instruction": "I'm getting this 'Route Not Found' error.  What's going wrong?  It's a pain.",
+    "response": "Ugh, that's a classic. It usually means your route isn’t correctly defined.  Double-check that you've declared the route in your `app.js` file, and that you’ve even *typed* the route name correctly.  Also, make sure there's an endpoint defined. It’s like, a little signpost for the route's job, you know?"
+  },
+  {
+    "instruction": "So, how do I make sure my route is 'friendly' to the browser?  Just put a slug in the URL, right?",
+    "response": "Totally.  Adding a slug – like `/users/john-doe` – is a good start. It makes the URLs more readable and SEO-friendly, which is always a plus.  The slug is just a text string that describes the route's content.  It's a small detail, but it helps the browser understand where you're going."
+  }
+]
+```

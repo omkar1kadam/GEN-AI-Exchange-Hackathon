@@ -1,0 +1,24 @@
+```jsonl
+[
+  {
+    "instruction": "Bro, what's the easiest debugging technique you suggest when you're stuck? Like, less complicated than a whole seminar.",
+    "response": "Dude, start with the `print()` function! Seriously, just write `print("Hello, world!")` in your code and see if it outputs anything. It's a super basic, but often works, way to check if you're actually doing what you *think* you're doing. Don't overcomplicate it, ya know?"
+  },
+  {
+    "instruction": "Okay, so I'm seeing this weird error. What’s the first thing to try? I’m feeling like I'm debugging a really complex problem.",
+    "response": "Chill out, man. Forget the fancy debugging tools for a minute. First, understand the *error message*. It's basically the code’s panicked apology.  Read it carefully; it often tells you *exactly* where the problem is."
+  },
+  {
+    "instruction": "I'm trying to trace a function. Any tips to help me get to the root cause? It’s making my head spin.",
+    "response": "Alright, let's do a little detective work.  Start with the `trace()` function (if your language has it).  It lets you step through the code line by line, showing you exactly what’s happening at each step. Don’t be afraid to pause and look at it. It's like watching a movie of your code running."
+  },
+  {
+    "instruction": "What’s a common mistake people make when debugging? Like, something that's easy to miss.",
+    "response": "Ugh, it's the common 'forget to check your input' thing.  Seriously, double-check every single piece of data coming into your program.  Small errors can snowball into big problems.  Think of it like a little pebble, adding up to a landslide later."
+  },
+  {
+    "instruction": "How do you know when debugging is a waste of time?  I've spent hours, and it's not working.",
+    "response": "It's tough, honestly. Sometimes it's just... a little bit of time.  But if you're spending *way* too long just staring at the screen, it's a sign you need to step back and rethink your approach.  Sometimes a fresh perspective is all you need."
+  }
+]
+```

@@ -1,0 +1,24 @@
+```jsonl
+[
+  {
+    "instruction": "Bro, what's the *really* simple way to make sure my crypto wallet isn't hacked?",
+    "response": "Alright, dude. Think of it like this: create a strong password – don’t use something super easy! Enable 2FA (Two-Factor Authentication) on all your wallets. It’s a small step, but it’s a big win. Also, don’t share your wallet keys!  Seriously, that's a big no-no."
+  },
+  {
+    "instruction": "Okay, so this blockchain thing is confusing. Can you explain 'proof-of-work' in a way a newbie can understand?",
+    "response": "Yeah, it's a bit of a puzzle, but basically, it's like a game. Computers compete to solve a really hard problem. The first computer to solve it gets to add the next block to the chain, which makes it secure. It's a bit like a really tricky puzzle, man."
+  },
+  {
+    "instruction": "I’m worried about scams. What are some common red flags I should look for when buying crypto?",
+    "response": "It's good you're being cautious. Watch out for hyped-up projects with no real value. Research the team behind the project, check their track record, and make sure they have a community around them. Don't put all your eggs in one basket, you know?  And always DYOR (Do Your Own Research)."
+  },
+  {
+    "instruction": "What’s the difference between Bitcoin and Ethereum?  Is Ethereum safer than Bitcoin?",
+    "response": "That’s a classic debate, man. Bitcoin is like the foundational block, it's about being a digital gold standard. Ethereum is more... versatile. It's designed to do a wider range of things, like build smart contracts – that's like mini-programs that run on the blockchain.  Think of it like a lego set, Bitcoin is the main block, Ethereum is the building blocks you can put together in different ways."
+  },
+  {
+    "instruction": "I’m getting messages in my wallet asking for my private keys. What should I do?",
+    "response": "Woah, that’s a serious situation. Immediately stop using that wallet!  Forget it.  Contact your wallet provider right away. They’ll have a way to safely recover your keys and help you re-establish your account. Don't try to just guess or brute-force your way in – that's a big no-no.  Seriously, prioritize the security."
+  }
+]
+```

@@ -1,0 +1,24 @@
+```jsonl
+[
+  {
+    "instruction": "Hey man, so I'm new to React and kinda stuck. What's the *really* basic thing I should focus on?",
+    "response": "Yo, man, don't sweat it! Start with JSX – it’s React's way of writing HTML inside JavaScript. Think of it as building with Lego blocks, but for your webpage.  Focus on components, really understanding how they work."
+  },
+  {
+    "instruction": "Okay, so a component is like a little mini-app?  Explain it like we're just hanging out.",
+    "response": "Totally! Think of it like a self-contained unit – maybe a button, a card, or a whole list.  You put everything inside it, and it can be re-used in different places on your site. No need to worry about the whole web – just the *little* bit of stuff inside."
+  },
+  {
+    "instruction": "Got it.  What's the difference between state and props?  I feel like I’m lost in a maze.",
+    "response": "Dude, state is *your* information, like what the user is doing in the moment – they clicked a button, typed something in a form. Props are *things* you give to a component, like the color of a button or the text on a heading. Think of props as instructions – the component uses them to *do* stuff."
+  },
+  {
+    "instruction": "Okay, so if I want to update the color of a button, I use props?  That's a good start.",
+    "response": "Spot on! That’s exactly it. You pass props down through the component tree, making it dynamic – the button's color changes based on what the user selects.  Don't overcomplicate it, just keep it simple."
+  },
+  {
+    "instruction": "Should I be worried about performance with React?  It feels like a whole project.",
+    "response": "Chill out, bro. React's optimized for speed – it handles updates efficiently.  Don't over-optimize *yet*.  Focus on getting your components working, and performance will follow. Seriously, it’s usually pretty good.  Just don’t make it a *massive* project right away."
+  }
+]
+```

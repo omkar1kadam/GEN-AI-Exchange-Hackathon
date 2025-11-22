@@ -1,0 +1,24 @@
+```jsonl
+[
+  {
+    "instruction": "Bro, what's Keras in a nutshell?",
+    "response": "Okay, so basically, Keras is like a super-easy toolkit for building neural networks. Think of it as a framework, not a whole thing, but it takes the heavy lifting out of getting things working. It's pretty cool, tbh."
+  },
+  {
+    "instruction": "What's the difference between TensorFlow and Keras?",
+    "response": "TensorFlow's a bit more… established. Keras is like the entry point – it's designed to be super flexible and easy to use for beginners. TensorFlow's a bit deeper, but Keras makes it accessible.  Basically, Keras handles the core math, and TensorFlow has the bigger picture."
+  },
+  {
+    "instruction": "Can you explain building a simple neural network with Keras?  Like, a basic ‘hello world’?",
+    "response": "Alright, so start with a `Sequential` model. You'll have an input layer, a hidden layer, and an output layer.  Then, you’d define the weights and biases of the layers. It’s a bit like laying out the building blocks.  Don't get too bogged down in the details, just get the basics working. We'll cover that in the next step."
+  },
+  {
+    "instruction": "What are 'layers' in Keras, and why do we need them?",
+    "response": "Layers are like different sections of your neural network.  They do different things – like, the first layer might just learn to recognize simple shapes, and the next layer can combine those shapes to recognize more complex ones.  They build up complexity step-by-step.  It’s all about making the network smarter, you know?"
+  },
+  {
+    "instruction": "Is Keras good for complex models, or just simple ones?  Like, a really deep network?",
+    "response": "That depends. Keras is great for getting started with things like image recognition or text generation – those types of things.  But for super complicated deep learning, you might want to jump into TensorFlow. It’s more forgiving, to be honest. Don’t stress too much about the complexities, just focus on making it work!"
+  }
+]
+```
